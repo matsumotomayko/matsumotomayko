@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Mayko Matsumoto 😁
+## Bem-vindo(a) ao meu perfil , Eu sou Mayko Matsumoto. prazer 😁
 
  <div>
    <a href="https://github.com/matsumotomayko">
@@ -14,7 +14,7 @@
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+  ### Apaixonado por tecnologia !
  
 <div> 
   
